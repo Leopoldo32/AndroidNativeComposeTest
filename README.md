@@ -1,5 +1,5 @@
 # AndroidNativeComposeTest
-Test desarrollado en android studio usando compose y kotlin en la cual se conecta a una API de RickAndMorty
+Test desarrollado en android studio usando compose y kotlin en la cual se conecta a una API de RickAndMorty.
 
 
 <img width="309" alt="image" src="https://user-images.githubusercontent.com/27238944/226915047-9c83de86-597d-494c-9ded-dce00cc04af0.png">
